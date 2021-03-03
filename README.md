@@ -8,3 +8,11 @@ run the C8SHELL.sh script and it will drop you into a CentOS8 environment
 
 edit the Dockerfile.tpl if you want to add more packages then run the BUILDME.sh again.
 
+
+---
+
+useful_aliases.sh contains some useful shortcuts; since aliases are case
+sensitive, these shouldn't clash with anything else
+
+use ". ./useful_aliases.sh" to pick these up
+
